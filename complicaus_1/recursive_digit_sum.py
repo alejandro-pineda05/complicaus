@@ -1,3 +1,6 @@
+# Source: HackerRank
+# URL: https://www.hackerrank.com/challenges/recursive-digit-sum
+
 def superDigit(n,k):
     x = k *sum(map(int,n))
     while x > 9:

@@ -4,6 +4,21 @@
 Repositorio de soluciones a problemas de la competición CompliCAUS, desarrolladas por miembros del [Club de Algoritmia de la Universidad de Sevilla](https://clubalgoritmiaus.es/).
 
 
+## Problemas por ediciones
+
+
+### [CompliCAUS I](https://www.hackerrank.com/contests/complicaus-i/challenges)
+
+ 1. [Angry Children 2 (HackerRank)](https://www.hackerrank.com/challenges/angry-children-2)
+ 2. [Birthday Cake Candles (HackerRank)](https://www.hackerrank.com/challenges/birthday-cake-candles)
+ 3. [Break the Records (HackerRank)](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
+ 4. [Subarray Divison (HackerRank)](https://www.hackerrank.com/challenges/the-birthday-bar)
+ 5. [Kingdom Division (HackerRank)](https://www.hackerrank.com/challenges/kingdom-division)
+ 6. [Apple and Orange (HackerRank)](https://www.hackerrank.com/challenges/apple-and-orange)
+ 7. [Highest Value Palindrome (HackerRank)](https://www.hackerrank.com/challenges/richie-rich)
+ 8. [Recursive Digit Sum (HackerRank)](https://www.hackerrank.com/challenges/recursive-digit-sum)
+
+
 ## FAQ
 
 <details>

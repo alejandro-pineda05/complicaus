@@ -1,3 +1,6 @@
+# Source: HackerRank
+# URL: https://www.hackerrank.com/challenges/the-birthday-bar
+
 def birthday(s,d,m):
     if len(s) < m:
         return 0

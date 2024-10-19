@@ -1,3 +1,6 @@
+# Source: HackerRank
+# URL: https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+
 def breakingRecords(scores):
     broken_most = 0
     broken_last = 0
