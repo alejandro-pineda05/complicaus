@@ -1,4 +1,5 @@
 
+
 # CompliCAUS
 
 Repositorio de soluciones a problemas de la competición CompliCAUS, desarrolladas por miembros del [Club de Algoritmia de la Universidad de Sevilla](https://clubalgoritmiaus.es/).
@@ -17,6 +18,20 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
  6. [Apple and Orange (HackerRank)](https://www.hackerrank.com/challenges/apple-and-orange)
  7. [Highest Value Palindrome (HackerRank)](https://www.hackerrank.com/challenges/richie-rich)
  8. [Recursive Digit Sum (HackerRank)](https://www.hackerrank.com/challenges/recursive-digit-sum)
+
+
+### [CompliCAUS II](https://vjudge.net/contest/662422)
+
+ 1. [Sending email (UVA)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)
+ 2. [Coins And Triangle (CodeChef)](https://www.codechef.com/problems/TRICOIN)
+ 3. [Largest Permutation (HackerRank)](https://www.hackerrank.com/challenges/largest-permutation/problem)
+ 4. [osu!mania (CodeForces)](https://codeforces.com/problemset/problem/2009/B)
+ 5. [No Prefix Set (HackerRank)](https://www.hackerrank.com/challenges/no-prefix-set/problem)
+ 6. [Queries about less or equal elements (CodeForces)](https://codeforces.com/problemset/problem/600/B)
+ 7. [Arithmetic expressions (HackerRank)](https://www.hackerrank.com/contests/projecteuler/challenges/euler093/problem)
+ 8. [Connect the Dots (CodeForces)](https://codeforces.com/problemset/problem/2020/D)
+ 9.  [Maximum Distance (CodeForces)](https://codeforces.com/gym/102951/problem/A)
+ 10. [Subarray Distinct Values (CSES)](https://cses.fi/problemset/task/2428) 
 
 
 ## FAQ
