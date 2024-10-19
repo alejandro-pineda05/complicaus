@@ -30,8 +30,8 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
  6. [Queries about less or equal elements (CodeForces)](https://codeforces.com/problemset/problem/600/B)
  7. [Arithmetic expressions (HackerRank)](https://www.hackerrank.com/contests/projecteuler/challenges/euler093/problem)
  8. [Connect the Dots (CodeForces)](https://codeforces.com/problemset/problem/2020/D)
- 9.  [Maximum Distance (CodeForces)](https://codeforces.com/gym/102951/problem/A)
- 10. [Subarray Distinct Values (CSES)](https://cses.fi/problemset/task/2428) 
+ 9. [Maximum Distance (CodeForces)](https://codeforces.com/gym/102951/problem/A)
+ 10. [Subarray Distinct Values (CSES)](https://cses.fi/problemset/task/2428)
 
 
 ## FAQ
