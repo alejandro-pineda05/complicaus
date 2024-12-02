@@ -1,3 +1,7 @@
+-- Source: HackerRank
+-- URL: https://www.hackerrank.com/challenges/no-prefix-set/problem
+-- Solution by Alejandro Domínguez Muñoz
+
 import Control.Monad
 import Data.Bifunctor
 import Data.List as L

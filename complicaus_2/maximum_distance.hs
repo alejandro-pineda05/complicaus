@@ -1,3 +1,7 @@
+-- Source: Codeforces Gym
+-- URL: https://codeforces.com/gym/102951/problem/A
+-- Solution by Alejandro Domínguez Muñoz
+
 {-# LANGUAGE TupleSections #-}
 
 import Data.List

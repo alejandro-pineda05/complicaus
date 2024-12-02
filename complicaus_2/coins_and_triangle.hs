@@ -1,3 +1,7 @@
+-- Source: CodeChef
+-- URL: https://www.codechef.com/problems/TRICOIN
+-- Solution by Alejandro Domínguez Muñoz
+
 import Data.Maybe
 import Text.Read
 
