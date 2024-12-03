@@ -1,3 +1,7 @@
+-- Source: Codeforces
+-- URL: https://codeforces.com/problemset/problem/2009/B
+-- Solution by Alejandro Domínguez Muñoz
+
 {-# LANGUAGE LambdaCase #-}
 
 import Data.List

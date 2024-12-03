@@ -1,3 +1,7 @@
+-- Source: Codeforces
+-- URL: https://codeforces.com/problemset/problem/600/B
+-- Solution by Alejandro Domínguez Muñoz
+
 {-# LANGUAGE TupleSections #-}
 
 import Data.List as L
