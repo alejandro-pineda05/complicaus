@@ -33,6 +33,20 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
  9. [Maximum Distance (CodeForces)](https://codeforces.com/gym/102951/problem/A)
  10. [Subarray Distinct Values (CSES)](https://cses.fi/problemset/task/2428)
 
+### [CompliCAUS III](https://vjudge.net/contest/689026)
+
+1. [Deadly atoms (Simple Molecules, Codeforces)](https://codeforces.com/problemset/problem/344/B)
+2. [City Yogi (Delivery Bears, Codeforces)](https://codeforces.com/problemset/problem/653/D)
+3. [Neo (Beautiful Matrix, Codeforces)](https://codeforces.com/problemset/problem/263/A)
+4. [Classic? (Knapsack, Codeforces)](https://codeforces.com/problemset/problem/1446/A)
+5. [Animal Crossing (Money Trees, Codeforces)](https://codeforces.com/problemset/problem/1873/F)
+6. [Scrabble (Way Too Long Words, Codeforces)](https://codeforces.com/problemset/problem/71/A)
+7. [Bees (Interesting drink, Codeforces)](https://codeforces.com/problemset/problem/706/B)
+8. [Easy? (Easily Readable, LightOJ)](https://lightoj.com/problem/easily-readable)
+9. [Frozono vibes (Forever Winter, Codeforces)](https://codeforces.com/problemset/problem/1829/F)
+10.[qwertyuiop (Keyboard, Codeforces)](https://codeforces.com/problemset/problem/474/A)
+11.[Un problema fácil (Chessboard and Queens)](https://cses.fi/problemset/task/1624)
+
 
 ## FAQ
 
