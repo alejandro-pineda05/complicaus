@@ -44,8 +44,8 @@ Repositorio de soluciones a problemas de la competición CompliCAUS, desarrollad
 7. [Bees (Interesting drink, Codeforces)](https://codeforces.com/problemset/problem/706/B)
 8. [Easy? (Easily Readable, LightOJ)](https://lightoj.com/problem/easily-readable)
 9. [Frozono vibes (Forever Winter, Codeforces)](https://codeforces.com/problemset/problem/1829/F)
-10.[qwertyuiop (Keyboard, Codeforces)](https://codeforces.com/problemset/problem/474/A)
-11.[Un problema fácil (Chessboard and Queens)](https://cses.fi/problemset/task/1624)
+10. [qwertyuiop (Keyboard, Codeforces)](https://codeforces.com/problemset/problem/474/A)
+11. [Un problema fácil (Chessboard and Queens)](https://cses.fi/problemset/task/1624)
 
 
 ## FAQ
