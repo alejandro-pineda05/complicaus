@@ -1,3 +1,5 @@
+# Solution made by Jevi
+
 from bisect import bisect_right
 
 shops = int(input())
