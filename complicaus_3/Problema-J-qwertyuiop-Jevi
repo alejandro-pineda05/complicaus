@@ -1,3 +1,5 @@
+# Solution made by Jevi
+
 first = list("qwertyuiop")
 second = list("asdfghjkl;")
 third = list("zxcvbnm,./")
