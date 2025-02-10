@@ -1,3 +1,5 @@
+# Solution made by Jevi
+
 t = int(input())
 words = [input() for _ in range(t)]
 
