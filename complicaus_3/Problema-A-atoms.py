@@ -1,3 +1,5 @@
+# Solution made by Jevi
+
 valences = [int(x) for x in input().split()]
 
 total = sum(valences)
